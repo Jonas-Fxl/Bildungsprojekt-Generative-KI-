@@ -2,17 +2,6 @@
 
 Dieses Repository enthält ein Bildungsprojekt, das sich mit generativer Künstlicher Intelligenz beschäftigt. Ziel des Projekts ist es, Grundlagen und Anwendungsmöglichkeiten von generativen KI-Methoden zu erforschen und praxisnah zu demonstrieren.
 
-## Inhaltsverzeichnis
-
-- [Über das Projekt](#über-das-projekt)
-- [Funktionen](#funktionen)
-- [Installation](#installation)
-- [Nutzung](#nutzung)
-- [Projektstruktur](#projektstruktur)
-- [Beitrag leisten](#beitrag-leisten)
-- [Lizenz](#lizenz)
-- [Kontakt](#kontakt)
-
 ## Über das Projekt
 
 In diesem Projekt werden verschiedene Aspekte und Anwendungsmöglichkeiten von generativer KI vorgestellt. Dabei werden Ansätze, Modelle und Algorithmen erläutert, die in der Praxis zur Erzeugung von Text, Bildern und anderen Inhalten verwendet werden können. Das Projekt dient als Lernplattform für alle, die sich für KI und deren kreative Anwendungen interessieren.
